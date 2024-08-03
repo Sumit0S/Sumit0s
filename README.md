@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sumit-sharma-0854b4256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-sharma-0854b4256" height="30" width="40" /></a>
 <a href="https://kaggle.com/sumitsharma0101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sumitsharma0101" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sumit sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sumit sharma" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC3UhgXfckU4X3CPMhuU04Ew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sumit sharma" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sumit_9090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumit_9090" height="30" width="40" /></a>
 </p>
 
