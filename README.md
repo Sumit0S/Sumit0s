@@ -1,7 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sumit Sharma</h1>
 <h2 align="center">A passionate Software developer from India</h2>
-<img align=“right” alt=“Coding” width=“400” src="" >
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit0s&label=Profile%20views&color=0e75b6&style=flat" alt="sumit0s" /> </p>
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p>
+      I am pursuing a specialization in machine learning and data analysis, including deep learning, with a strong foundation in problem-solving. My background in front-end development enhances my ability to devise creative solutions while handling complex datasets. As a data scientist, I possess the skills to aggregate, manipulate, and visualize data using various tools, allowing me to efficiently identify patterns and generate informed solutions to business challenges.
+    </p>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="17305523570577lavmp65.webp" alt="Coding" height="400px">
+  </div>
+</div>
+
+
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=sumit0s&label=Profile%20views&color=0e75b6&style=flat" alt="sumit0s" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumit0s" alt="sumit0s" /></a> </p>
 
