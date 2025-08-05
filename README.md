@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit Sharma</h1>
-<h2 align="center">A passionate Software developer from India</h2>
+<h2 align="center">A passionate Software developer</h2>
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
