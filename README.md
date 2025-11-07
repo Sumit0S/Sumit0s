@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Machine learning , Data Analyst , Frontend**
+- 💬 Ask me about Neural Network and Web Development
 
 - 📫 How to reach me **sumitsharma44890@gmail.com**
 
